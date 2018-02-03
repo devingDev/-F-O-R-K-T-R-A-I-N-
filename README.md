@@ -1,2 +1,2 @@
-# -F-O-R-K-T-R-A-I-N-
-F O O O O O R R R R K
+fork this
+then edit the fork.txt file and add your name to it!
